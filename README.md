@@ -1,5 +1,5 @@
 cat > README.md << 'EOF'
-# 🏁 F1 Qwerky Race Agent
+# 🏁 F1 Qwerky Race Agent 💼
 
 **Real-time AI-powered F1 race companion using cutting-edge Mojo and live telemetry data**
 
