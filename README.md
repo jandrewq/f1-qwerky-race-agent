@@ -75,4 +75,4 @@ MIT License - Feel free to use this for your own F1 AI projects!
 ---
 
 **⚡ Built with Mojo - Experience the future of AI-powered sports analysis!**
-EOF
+LFG
