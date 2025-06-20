@@ -1,0 +1,37 @@
+# Compiled binaries
+*.o
+*.so
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/*.log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Magic/Mojo environment files
+.magic/envs/
+magic.lock
+
+# Data files (if sensitive)
+data/sensitive/
+models/private/
+
+# Temporary files
+tmp/
+temp/
+.tmp/

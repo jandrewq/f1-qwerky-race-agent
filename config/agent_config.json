@@ -1,0 +1,34 @@
+{
+    "system": {
+        "name": "F1 Qwerky Race Agent",
+        "version": "1.0.0",
+        "mode": "demo"
+    },
+    "f1_data": {
+        "source": "openf1_api",
+        "endpoint": "https://api.openf1.org/v1/",
+        "refresh_rate_ms": 1000
+    },
+    "ai_personalities": {
+        "professional": {
+            "tone": "analytical",
+            "humor_level": 2,
+            "technical_depth": 8
+        },
+        "entertaining": {
+            "tone": "fun", 
+            "humor_level": 7,
+            "technical_depth": 5
+        },
+        "savage": {
+            "tone": "roasting",
+            "humor_level": 10,
+            "technical_depth": 3
+        }
+    },
+    "triggers": {
+        "lap_time_improvement": 0.5,
+        "close_battle_gap": 1.0,
+        "analysis_interval": 5.0
+    }
+}
