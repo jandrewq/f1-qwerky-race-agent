@@ -8,3 +8,4 @@ version = "0.1.0"
 
 [dependencies]
 max = ">=25.5.0.dev2025061705,<26"
+requests = ">=2.32.4,<3"
