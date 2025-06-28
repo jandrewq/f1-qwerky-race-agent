@@ -189,7 +189,7 @@ MIT License - Build your own voice-enabled F1 AI projects!
 - **Modular** for the incredible Mojo language and MAX platform
 - **ElevenLabs** for professional AI voice synthesis technology
 - **OpenF1** for providing free, real-time F1 data access
-- **F1 Community** for inspiring better race analysis tools
+- **Qwerky AI** for inspiring better race analysis tools
 
 ---
 
